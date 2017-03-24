@@ -1,0 +1,26 @@
+{
+  "name": "github-delete-repos-es2017",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "dependencies": {
+    "babel-cli": "^6.24.0",
+    "jsonfile": "^2.4.0",
+    "lodash": "^4.17.4",
+    "request": "^2.81.0"
+  },
+  "devDependencies": {
+    "babel-cli": "^6.24.0",
+    "babel-eslint": "^7.2.1",
+    "babel-preset-env": "^1.2.2",
+    "babel-preset-es2017": "^6.22.0",
+    "eslint": "^3.18.0"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "build": "babel src -d lib",
+    "start": "babel-node src/"
+  },
+  "author": "",
+  "license": "ISC"
+}

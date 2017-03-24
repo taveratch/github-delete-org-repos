@@ -1,0 +1,7 @@
+{
+  "token" : "3d97011XXXXXXXXX",
+  "repo" : "test-script",
+  "organization": "Company",
+  "api_url" : "https://api.github.com",
+  "limit" : 1000
+}
