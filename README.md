@@ -1,5 +1,9 @@
 ### Remove specific repositories in organization
 ----
+
+###### Requirements
+- Node.js
+
 ###### How to use
 ```
 $ npm install
